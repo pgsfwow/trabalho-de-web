@@ -1,0 +1,41 @@
+.banner{
+    background-image: url("./Imagens/tavernBanner.png");
+    background-color: #cccccc;
+    height: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    transform: translate(0px,-35px);
+    opacity: 0.9;
+}
+.banner h1{
+    font-size: 50px;
+    padding-top: 130px;
+    padding-left:50px;
+    color: white;
+}
+
+.ConteudoHome{
+    border-top: solid gray 2px;
+}
+
+.introduction{
+    display: flex;
+}
+.introduction video{
+    padding-left:50px ;
+}
+.introduction p{
+    padding-top:50px;
+    width: 250px;
+    text-align:justify;
+}
+.Feed ul{ 
+    list-style: none;
+    display: flex;
+    padding-left:15px; 
+}
+.Feed li{
+    padding-right: 15px;
+}

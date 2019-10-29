@@ -1,0 +1,17 @@
+table, td, th {  
+    border: 1px solid #ddd;
+    text-align: justify;
+   
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
+  .regras{
+      padding-bottom:20px; 
+  }

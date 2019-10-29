@@ -1,0 +1,51 @@
+.toolBar{
+
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background: #000000;
+    align-content: center;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+        
+}
+
+.logo{
+    padding-left: 90px;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+}
+.logo img{
+    width: 120px;
+}
+.paginas li{
+    padding-right: 15px;
+}
+.paginas a{
+    text-decoration:none;
+    font-size: 25px;
+    color:rgb(179, 179, 179);
+    font-family: Roboto,Helvetica,sans-serif;
+    
+}
+.paginas ul{
+    display: flex;
+    list-style: none;
+}
+.paginas a:hover,.paginas a:active,.midias a:hover,.midias a:active{
+    color: rgb(255, 255, 255);
+
+}
+.midias ul{
+    padding-left:650px; 
+}
+.midias a{
+    text-decoration:none;
+    font-size: 20px;
+    color:rgb(179, 179, 179);
+    font-family: Roboto,Helvetica,sans-serif;
+    
+}

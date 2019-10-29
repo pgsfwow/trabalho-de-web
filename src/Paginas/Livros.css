@@ -1,0 +1,16 @@
+
+.Livros{
+    padding-top:100px;
+    padding-left:20px; 
+    padding-bottom:50px; 
+    align-items: center;
+    display: flex;
+}
+.Livro h1{
+    font-size: 20px;
+}
+.Livro {
+    padding-right: 10px;
+    text-align: justify;
+    display: flex;
+}
